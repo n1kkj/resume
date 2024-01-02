@@ -1,10 +1,3 @@
-# Резюме
-
-Лакин Никита
-
-**python django backend developer**
-
----
 #### Контакты:
 
 - телеграм: [@n1kkj](https://t.me/n1kkj)
