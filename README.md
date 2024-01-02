@@ -3,8 +3,9 @@
 Лакин Никита
 
 #### Контакты:
+
 - телеграм: [@n1kkj](https://t.me/n1kkj)
-- почта: nikita.lakin.topka@gmail.com
+- почта: [nikita.lakin.topka@gmail.com](mailto:nikita.lakin.topka@gmail.com)
 
 
 #### Обо мне:
