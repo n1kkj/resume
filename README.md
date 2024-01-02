@@ -9,6 +9,7 @@
 
 - телеграм: [@n1kkj](https://t.me/n1kkj)
 - почта: [nikita.lakin.topka@gmail.com](mailto:nikita.lakin.topka@gmail.com)
+- телефон: [+7(985)749-25-55](tel:+7-985-749-25-55)
 
 ---
 #### Обо мне:
