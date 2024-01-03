@@ -4,6 +4,9 @@
 - почта: [nikita.lakin.topka@gmail.com](mailto:nikita.lakin.topka@gmail.com)
 - телефон: [+7(985)749-25-55](tel:+7-985-749-25-55)
 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+н
+
 ---
 #### Обо мне:
 Студент РТУ МиРЭА факультета Информатики и Вычислительной техники. Самостоятельно изучаю разработку уже 4 года. Учился в [Школе Программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546) 3 года. За это время изучал C++, C#, html, css, остановился на python в связи с гибкостью языка и его возможностями. Ищу возможности участия в различных проектах в качестве python backend Django developer.
