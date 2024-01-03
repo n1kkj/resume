@@ -1,5 +1,14 @@
 theme: jekyll-theme-slate
-title: |:Лакин Никита:|
+title: Лакин Никита
 description: python django backend developer
 github:
     is_project_page: false
+roles:
+ - title: Junior Developer
+   start: 2023
+   end: Ongoing
+   employer: Innova Group
+   description: python django backend developer на двух проектах
+skills:
+  - внимательность
+  - умность
