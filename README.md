@@ -35,3 +35,10 @@
 - Руководил командой из 3 разработчиков по созданию игры в рамках [олимпиады НТО](https://ntcontest.ru/?ysclid=lmq26tpsik835029106)
 - GitHub: [https://github.com/n1kkj](https://github.com/n1kkj)
 - GitLab: [https://gitlab.com/n1kkj](https://gitlab.com/n1kkj)
+
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
