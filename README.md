@@ -4,18 +4,6 @@
 - почта: [nikita.lakin.topka@gmail.com](mailto:nikita.lakin.topka@gmail.com)
 - телефон: [+7(985)749-25-55](tel:+7-985-749-25-55)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/.github/packages/og-core.png" alt="Tabler Icons" width="838">
-</p>
-
-<p align="center">
-    A set of <!--icons-count-->4926<!--/icons-count--> free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.
-<p>
-
-<p align="center">
-  <a href="https://tabler-icons.io/"><strong>Browse at tabler-icons.io &rarr;</strong></a>
-</p>
-
 ---
 #### Обо мне:
 Студент РТУ МиРЭА факультета Информатики и Вычислительной техники. Самостоятельно изучаю разработку уже 4 года. Учился в [Школе Программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546) 3 года. За это время изучал C++, C#, html, css, остановился на python в связи с гибкостью языка и его возможностями. Ищу возможности участия в различных проектах в качестве python backend Django developer.
