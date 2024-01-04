@@ -14,7 +14,7 @@
 - Работаю в [Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"} в качестве python junior backend developer с апреля 2023 по сегодняшний день
   - Участвую в разработке и поддержке сайта [payplanet](https://payplanet.com/){:target="_blank" rel="noopener"}
   - Участвую в разработке обучающей онлайн платформы
-- Обучался в [Школе Программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546) {:target="_blank" rel="noopener"} с сентября 2020 по июнь 2033
+- Обучался в [Школе Программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"} с сентября 2020 по июнь 2033
   - Разработал бэкенд сайта голосований [SimpleVotings](https://gitlab.com/n1kkj/simple_votings){:target="_blank" rel="noopener"}
   - Разработал бэкенд сайта написания дискорд ботов [BotCreator](https://gitlab.com/n1kkj/botcreator){:target="_blank" rel="noopener"}
 - Фриланс в качестве python django backend developer
