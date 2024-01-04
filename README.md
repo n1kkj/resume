@@ -6,7 +6,7 @@
 
 ---
 #### Обо мне:
-Студент РТУ МиРЭА факультета Информатики и Вычислительной техники. Самостоятельно изучаю разработку уже 5 лет. Учился в [Школе Программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"} 3 года. За это время изучал c++, c#, html, css, остановился на python в связи с гибкостью языка и его возможностями. Ищу возможности участия в различных проектах в качестве python backend django developer.
+Студент РТУ МиРЭА факультета Информатики и Вычислительной техники. Самостоятельно изучаю разработку уже 5 лет. Учился в [Школе Программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"} 3 года. За это время изучал c++, c#, html, css, остановился на python в связи с гибкостью языка и его возможностями. Ищу возможности участия в различных проектах в качестве python django backend developer.
 
 ---
 #### Соответствующий опыт:
