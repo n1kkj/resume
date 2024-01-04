@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 title: Лакин Никита
 description: python django backend developer
 github:
-    is_project_page: false
+    is_project_page: true
 markdown: kramdown
