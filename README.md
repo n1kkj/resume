@@ -58,7 +58,7 @@ Python junior backend developer, [Innova Group](https://innovacompanies.com/){:t
 ---
 #### Дополнительный опыт:
 
-- Руководил командой из 3 разработчиков по созданию игры в рамках [олимпиады НТО](https://ntcontest.ru/?ysclid=lmq26tpsik835029106){:target="_blank" rel="noopener"}
+- Руководил командой из 3 разработчиков по созданию игры в рамках [олимпиады НТО](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}
 - GitHub: [https://github.com/n1kkj](https://github.com/n1kkj){:target="_blank" rel="noopener"}
 - GitLab: [https://gitlab.com/n1kkj](https://gitlab.com/n1kkj){:target="_blank" rel="noopener"}
 
