@@ -15,6 +15,7 @@
 - РТУ МирЭА, Факультет "Информатики и вычислительной техники"
 - [Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}
  (сентябрь 2020 г. – июнь 2033 г.)
+
 ---
 #### Релевантный опыт:
 
