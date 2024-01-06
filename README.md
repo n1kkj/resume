@@ -31,8 +31,8 @@ Python junior backend developer, [Innova Group](https://innovacompanies.com/){:t
 
 - Сайт для голосований, исходники - [SimpleVotings](https://gitlab.com/n1kkj/simple_votings){:target="_blank" rel="noopener"}. Написание оптимизированной архитектуры, использование drf.
 - Сайт для Discord ботов, исходники - [BotCreator](https://gitlab.com/n1kkj/botcreator){:target="_blank" rel="noopener"}. Создание песочницы для визуального программирования ботов с помощью javascript и drf.
-- Сайт подбора спортивных клубов в школе [АНО СК ВОСХОД](https://vk.com/sunrise.russia){:target="_blank" rel="noopener"}, исходники - [Sunrise](https://github.com/JaydenPears/sunrise){:target="_blank" rel="noopener"}. Написание всего backend сайта. 
-- Сайт контроля лицензий для компании [Нинсар](https://ninsar.pro/){:target="_blank" rel="noopener"}. Пока в разработке.
+- Сайт подбора спортивных клубов в школе [АНО СК ВОСХОД](https://vk.com/sunrise.russia){:target="_blank" rel="noopener"}, исходники - [Sunrise](https://github.com/JaydenPears/sunrise){:target="_blank" rel="noopener"}. Написание всего backend сайта для удобного выбора кружков и просмотра расписания занятий. Разработка админской части сайта для удобного управления информацией. 
+- Сайт контроля лицензий для компании [Нинсар](https://ninsar.pro/){:target="_blank" rel="noopener"}. Пока в разработке. Упор на админскую часть сайта, работа с управлением лицензий и ключей.
 
 ---
 #### Hard skills:
