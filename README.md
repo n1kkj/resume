@@ -45,22 +45,6 @@
 - GitLab: [https://gitlab.com/n1kkj](https://gitlab.com/n1kkj){:target="_blank" rel="noopener"}
 
 <style>
-.resize{
-  width: 720px;
-  height: 620px;
-  border: 2px solid #000;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  resize: both;
-  overflow: auto;
-}
-
-.resize > div{
-  width: 100%;
-  text-align: center;
-}
-
 @media only screen and (max-width: 480px) {
   .pc{
     display: none;
