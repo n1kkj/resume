@@ -74,4 +74,8 @@ Python junior backend developer, [Innova Group](https://innovacompanies.com/){:t
     display: none;
   }
 }
+  
+.inner{
+    max-width: 800px;
+}
 </style>
