@@ -3,6 +3,9 @@
 - телеграм: [@n1kkj](https://t.me/n1kkj){:target="_blank" rel="noopener"}
 - почта: [lakin.n.s@yandex.ru](mailto:lakin.n.s@yandex.ru){:target="_blank" rel="noopener"}
 - телефон: [+7(985)749-25-55](tel:+7-985-749-25-55)
+<div class="resize">
+  <div class="mob">- сохранить контакт: [+7(985)749-25-55](vcard.vcf)</div>
+</div>
 - сохранить контакт: [+7(985)749-25-55](vcard.vcf)
 
 ---
@@ -40,3 +43,33 @@
 - Руководил командой из 3 разработчиков по созданию игры в рамках [олимпиады НТО](https://ntcontest.ru/?ysclid=lmq26tpsik835029106){:target="_blank" rel="noopener"}
 - GitHub: [https://github.com/n1kkj](https://github.com/n1kkj){:target="_blank" rel="noopener"}
 - GitLab: [https://gitlab.com/n1kkj](https://gitlab.com/n1kkj){:target="_blank" rel="noopener"}
+
+<style>
+.resize{
+  width: 720px;
+  height: 620px;
+  border: 2px solid #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  resize: both;
+  overflow: auto;
+}
+
+.resize > div{
+  width: 100%;
+  text-align: center;
+}
+
+@media only screen and (max-width: 480px) {
+  .pc{
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  .mob{
+    display: none;
+  }
+}
+</style>
