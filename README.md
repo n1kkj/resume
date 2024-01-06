@@ -2,10 +2,7 @@
 
 - телеграм: [@n1kkj](https://t.me/n1kkj){:target="_blank" rel="noopener"}
 - почта: [lakin.n.s@yandex.ru](mailto:lakin.n.s@yandex.ru){:target="_blank" rel="noopener"}
-- телефон: [+7(985)749-25-55](tel:+7-985-749-25-55)
-<ul>
-  <li class="mob">- сохранить контакт: <a href="vcard.vcf">+7(985)749-25-55</li></a>
-</ul>
+- телефон: [+7(985)749-25-55](tel:+7-985-749-25-55) <ul><li class="mob"><a href="vcard.vcf">сохранить контакт</a></li></ul>
 
 ---
 #### Обо мне:
