@@ -3,18 +3,18 @@
 - телеграм: [@n1kkj](https://t.me/n1kkj){:target="_blank" rel="noopener"}
 - почта: [lakin.n.s@yandex.ru](mailto:lakin.n.s@yandex.ru){:target="_blank" rel="noopener"}
 - телефон: [+7(985)749-25-55](tel:+7-985-749-25-55) 
-  <div class="mob"><ul><li><a href="vcard.vcf">сохранить контакт</a></li></ul></div>
+  **<div class="mob"><ul><li><a href="vcard.vcf">сохранить контакт</a></li></ul></div>**
 
 ---
 #### Цель:
 
-Ищу возможности участия в проектах в качестве python backend developer с упором на django и drf.
+Ищу возможности участия в проектах в качестве **python backend developer** с упором на django и drf.
 
 ---
 #### Образование:
-- РТУ МирЭА, Факультет "Информатики и вычислительной техники"(2023 г. - 2027 г.)
 - [Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}
  (2020 г. – 2023 г.)
+- РТУ МирЭА, Факультет "Информатики и вычислительной техники" (2023 г. - 2027 г.)
 
 ---
 #### Релевантный опыт:
@@ -48,6 +48,7 @@ Python junior backend developer, [Innova Group](https://innovacompanies.com/){:t
 
 - Внимательность к деталям, быстрая обучаемость
 - Отличные навыки межличностного общения, умение работать в команде
+- Эффективный тайм-менеджмент
 
 ---
 #### Языки:
