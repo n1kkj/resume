@@ -17,7 +17,7 @@
 - РТУ МирЭА, Факультет "Информатики и вычислительной техники" (2023 г. - 2027 г.)
 
 ---
-#### Релевантный опыт:
+### Релевантный опыт:
 
 Python junior backend developer, **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}** (апрель 2023 г. – настоящее время)
 - Работа с django-admin, DRF, REST API
@@ -27,7 +27,7 @@ Python junior backend developer, **[Innova Group](https://innovacompanies.com/){
 - Поддержка и улучшение существующего функционала
 
 ---
-#### Фриланс:
+### Фриланс:
 
 - Сайт для голосований, исходники - **[SimpleVotings](https://gitlab.com/n1kkj/simple_votings){:target="_blank" rel="noopener"}**. Написание оптимизированной архитектуры, использование drf.
 - Сайт для Discord ботов, исходники - **[BotCreator](https://gitlab.com/n1kkj/botcreator){:target="_blank" rel="noopener"}**. Создание песочницы для визуального программирования ботов с помощью javascript и drf.
@@ -35,7 +35,7 @@ Python junior backend developer, **[Innova Group](https://innovacompanies.com/){
 - Сайт контроля лицензий для компании **[Нинсар](https://ninsar.pro/){:target="_blank" rel="noopener"}**. Пока в разработке. Упор на админскую часть, работа с управлением лицензий и ключей.
 
 ---
-#### Hard skills:
+### Hard skills:
 
 - Знание языков программирования python (django, drf), c++, c#
 - Знание и умение работать с субд (postgresql, sqlite)
@@ -44,27 +44,27 @@ Python junior backend developer, **[Innova Group](https://innovacompanies.com/){
 - Опыт разработки игр на Unity
 
 ---
-#### Soft skills:
+### Soft skills:
 
 - Внимательность к деталям, быстрая обучаемость
 - Отличные навыки межличностного общения, умение работать в команде
 - Эффективный тайм-менеджмент
 
 ---
-#### Языки:
+### Языки:
 - Английский: уровень C1
 - Французский: уровень A1
 - Русский: носитель
 
 ---
-#### Дополнительный опыт:
+### Дополнительный опыт:
 
 - Руководил командой из 3 разработчиков по созданию игры в рамках **[олимпиады НТО](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**
 - GitHub: **[https://github.com/n1kkj](https://github.com/n1kkj){:target="_blank" rel="noopener"}**
 - GitLab: **[https://gitlab.com/n1kkj](https://gitlab.com/n1kkj){:target="_blank" rel="noopener"}**
 
 ---
-#### Рекомендации:
+### Рекомендации:
 - **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}**, Лакин Станислав Владимирович (Управляющий партнёр/технический директор)
 - **[Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}**, Кучук Егор Андреевич (Педагог)
 <style>
