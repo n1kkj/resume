@@ -1,17 +1,17 @@
-#### Контакты:
+### Контакты:
 
 - телеграм: **[@n1kkj](https://t.me/n1kkj){:target="_blank" rel="noopener"}**
 - почта: **[lakin.n.s@yandex.ru](mailto:lakin.n.s@yandex.ru){:target="_blank" rel="noopener"}**
-- телефон: **[+7(985)749-25-55](tel:+7-985-749-25-55) **
+- телефон: **[+7(985)749-25-55](tel:+7-985-749-25-55)**
   <div class="mob"><ul><li><a href="vcard.vcf">сохранить контакт</a></li></ul></div>
 
 ---
-#### Цель:
+### Цель:
 
 Ищу возможности участия в проектах в качестве **python backend developer** с упором на django и drf.
 
 ---
-#### Образование:
+### Образование:
 - **[Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}**
  (2020 г. – 2023 г.)
 - РТУ МирЭА, Факультет "Информатики и вычислительной техники" (2023 г. - 2027 г.)
