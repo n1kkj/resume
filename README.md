@@ -63,6 +63,12 @@ Python junior backend developer, [Innova Group](https://innovacompanies.com/){:t
 - GitHub: [https://github.com/n1kkj](https://github.com/n1kkj){:target="_blank" rel="noopener"}
 - GitLab: [https://gitlab.com/n1kkj](https://gitlab.com/n1kkj){:target="_blank" rel="noopener"}
 
+---
+#### Рекомендации:
+- **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}**
+Лакин Станислав Владимирович (Управляющий партнёр/технический директор)
+- **[Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}**
+Кучук Егор Андреевич (Педагог)
 <style>
 @media only screen and (max-width: 480px) {
   .pc{
