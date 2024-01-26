@@ -25,6 +25,7 @@ Python junior backend developer, **[Innova Group](https://innovacompanies.com/){
 - Написание телеграм бота с помощью технологий WebHook
 - Использование docker контейнеров
 - Поддержка и улучшение существующего функционала
+- Изучение и участие в разработке платежных технологий на проекте **PayPlanet(https://pay-planet.com/){:target="_blank" rel="noopener"}**
 
 ---
 #### Фриланс:
