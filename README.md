@@ -30,10 +30,10 @@ Python junior backend developer, **[Innova Group](https://innovacompanies.com/){
 ---
 #### Фриланс:
 
-- Сайт для голосований, исходники - **[SimpleVotings](https://gitlab.com/n1kkj/simple_votings){:target="_blank" rel="noopener"}**. Написание оптимизированной архитектуры, использование drf.
-- Сайт для Discord ботов, исходники - **[BotCreator](https://gitlab.com/n1kkj/botcreator){:target="_blank" rel="noopener"}**. Создание песочницы для визуального программирования ботов с помощью javascript и drf.
-- Сайт подбора спортивных клубов в школе **[АНО СК ВОСХОД](https://vk.com/sunrise.russia){:target="_blank" rel="noopener"}**, исходники - **[Sunrise](https://github.com/JaydenPears/sunrise){:target="_blank" rel="noopener"}**. Написание всего backend для удобного выбора кружков и просмотра расписания занятий. Разработка админской части сайта для управления информацией. 
-- Сайт контроля лицензий для компании **[Нинсар](https://ninsar.pro/){:target="_blank" rel="noopener"}**. Пока в разработке. Упор на админскую часть, работа с управлением лицензий и ключей.
+- **[SimpleVotings](https://gitlab.com/n1kkj/simple_votings){:target="_blank" rel="noopener"}**: Разработка и оптимизация архитектуры сайта для голосований с использованием drf.
+- **[BotCreator](https://gitlab.com/n1kkj/botcreator){:target="_blank" rel="noopener"}**: Создание песочницы для визуального программирования Discord ботов с помощью javascript и drf.
+- **[Sunrise](https://github.com/JaydenPears/sunrise){:target="_blank" rel="noopener"}**: Написание backend'а для сайта подбора спортивных клубов в школе **[АНО СК ВОСХОД](https://vk.com/sunrise.russia){:target="_blank" rel="noopener"}**, включая выбор кружков и просмотр расписания занятий. Разработка админской части для управления информацией.
+- Проект контроля лицензий для компании **[Нинсар](https://ninsar.pro/){:target="_blank" rel="noopener"}** (в разработке): Основной фокус на разработке админской части, включая управление лицензиями и ключами.
 
 ---
 #### Hard skills:
