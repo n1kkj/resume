@@ -8,18 +8,18 @@
 ---
 #### Цель:
 
-Ищу возможности участия в проектах в качестве **python backend developer** с упором на django и drf.
+Ищу возможности участия в проектах в качестве **django developer**.
 
 ---
 #### Образование:
 - **[Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}**
  (2020 г. – 2023 г.)
-- РТУ МирЭА, Факультет "Информатики и вычислительной техники" (2023 г. - 2027 г.)
+- РТУ МирЭА, Факультет "Информатики и вычислительной техники" (2023 г. - 2027 г., не окончено)
 
 ---
 #### Релевантный опыт:
 
-Python junior backend developer, **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}** (апрель 2023 г. – настоящее время)
+Python backend developer, **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}** (апрель 2023 г. – настоящее время)
 - Работа с django-admin, DRF, REST API
 - Оптимизация SQL запросов с использованием postgresql
 - Написание телеграм бота с помощью технологий WebHook
@@ -42,7 +42,7 @@ Python junior backend developer, **[Innova Group](https://innovacompanies.com/){
 - Знание и умение работать с субд (postgresql, sqlite)
 - Знание и умение использования docker контейнеров
 - Работа с linux
-- Опыт разработки игр на Unity
+- Разработка игр на Unity
 
 ---
 #### Soft skills:
@@ -50,6 +50,7 @@ Python junior backend developer, **[Innova Group](https://innovacompanies.com/){
 - Внимательность к деталям, быстрая обучаемость
 - Отличные навыки межличностного общения, умение работать в команде
 - Эффективный тайм-менеджмент
+- Навыки выступлений и преподавания
 
 ---
 #### Языки:
@@ -60,9 +61,15 @@ Python junior backend developer, **[Innova Group](https://innovacompanies.com/){
 ---
 #### Дополнительный опыт:
 
-- Руководил командой из 3 разработчиков по созданию игры в рамках **[олимпиады НТО](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**
+- Руководил командой из 3 разработчиков по созданию игры в рамках **[олимпиады НТО](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**, управление командой, организация работы, ведение продукта на всем пути
+- Являюсь одним из организаторов НТО по **[разработке компьютерных игр](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**, отвечаю за деятельность амассадоров и работы с комьюнити. Провожу онлайн вебинары, офлайн обучающие и рекламные лекции
+- Работаю в HR агенстве менеджером, веду с клиента от их прихода в агенство до трудоустройства
 - GitHub: **[https://github.com/n1kkj](https://github.com/n1kkj){:target="_blank" rel="noopener"}**
 - GitLab: **[https://gitlab.com/n1kkj](https://gitlab.com/n1kkj){:target="_blank" rel="noopener"}**
+
+---
+#### О себе:
+Увлекаюсь олимпиадной и проектной деятельностью, шахматами, гитарой. Развиваюсь в сфере выступлений и педагогики.
 
 ---
 #### Рекомендации:
