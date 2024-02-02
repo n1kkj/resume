@@ -6,11 +6,6 @@
   <div class="mob"><ul><li><a href="vcard.vcf">сохранить контакт</a></li></ul></div>
 
 ---
-#### Цель:
-
-Ищу возможности участия в проектах в качестве **django developer**.
-
----
 #### Образование:
 - **[Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}**
  (2020 г. – 2023 г.)
@@ -27,13 +22,19 @@ Python backend developer, **[Innova Group](https://innovacompanies.com/){:target
 - Поддержка и улучшение существующего функционала
 - Изучение и участие в разработке платежных технологий на проекте **[PayPlanet](https://pay-planet.com/){:target="_blank" rel="noopener"}**
 
+Python backend developer, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}** (декабрь 2023 г. – настоящее время)
+- Работа с django-admin, DRF, REST API
+- Оптимизация SQL запросов с использованием postgresql
+- Использование docker контейнеров
+- Поддержка и улучшение существующего функционала
+- Изучение и участие в разработке бэкенд приложений на проекте **[Квадросим](https://xn--80adhqgqmpk.xn--p1ai/){:target="_blank" rel="noopener"}**
+
 ---
 #### Фриланс:
 
 - **[SimpleVotings](https://gitlab.com/n1kkj/simple_votings){:target="_blank" rel="noopener"}**: Разработка и оптимизация архитектуры сайта для голосований с использованием drf.
 - **[BotCreator](https://gitlab.com/n1kkj/botcreator){:target="_blank" rel="noopener"}**: Создание песочницы для визуального программирования Discord ботов с помощью javascript и drf.
 - **[Sunrise](https://github.com/JaydenPears/sunrise){:target="_blank" rel="noopener"}**: Написание backend'а для сайта подбора спортивных клубов в школе **[АНО СК ВОСХОД](https://vk.com/sunrise.russia){:target="_blank" rel="noopener"}**, включая выбор кружков и просмотр расписания занятий. Разработка админской части для управления информацией.
-- Проект контроля лицензий для компании **[Нинсар](https://ninsar.pro/){:target="_blank" rel="noopener"}** (в разработке): Основной фокус на разработке админской части, включая управление лицензиями и ключами.
 
 ---
 #### Hard skills:
