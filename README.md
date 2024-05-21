@@ -65,7 +65,7 @@ Python django developer, **[Innova Group](https://innovacompanies.com/){:target=
 #### Дополнительный опыт:
 
 - Руководил командой из 3 разработчиков по созданию игры в рамках **[олимпиады НТО](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**, управление командой, организация работы, ведение продукта на всем пути
-- Организатор НТО по **[разработке компьютерных игр](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**, отвечаю за деятельность амассадоров и работы с комьюнити. Провожу онлайн вебинары, офлайн обучающие и рекламные лекции
+- Организатор НТО по **[разработке компьютерных игр](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**, отвечаю за деятельность амассадоров, работу с комьюнити, составление и проверка заданий. Провожу онлайн вебинары, офлайн обучающие и рекламные лекции
 - Являюсь амбассадором и тестировщиком **[НКФП Берлога](https://platform.kruzhok.org/){:target="_blank" rel="noopener"}**
 - Работаю в HR агенстве менеджером, веду с клиента от их прихода в агенство до трудоустройства
 - GitHub: **[https://github.com/n1kkj](https://github.com/n1kkj){:target="_blank" rel="noopener"}**
