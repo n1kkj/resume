@@ -14,7 +14,7 @@
 ---
 #### Релевантный опыт:
 
-Python backend developer, **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}** (апрель 2023 г. – настоящее время)
+Python django developer, **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}** (апрель 2023 г. – настоящее время)
 - Работа с django-admin, DRF, REST API
 - Оптимизация SQL запросов с использованием postgresql
 - Написание телеграм бота с помощью технологий WebHook
@@ -22,7 +22,7 @@ Python backend developer, **[Innova Group](https://innovacompanies.com/){:target
 - Поддержка и улучшение существующего функционала
 - Изучение и участие в разработке платежных технологий на проекте **[PayPlanet](https://pay-planet.com/){:target="_blank" rel="noopener"}**
 
-Python backend developer, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}** (декабрь 2023 г. – настоящее время)
+Глава отдела backend, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}** (декабрь 2023 г. – настоящее время)
 - Управление отделом бэкенда, менеджмент задач
 - Изучение и участие в разработке бэкенд приложений на проекте **[Квадросим](https://xn--80adhqgqmpk.xn--p1ai/){:target="_blank" rel="noopener"}**
 - Разработка и поддержание сервера лицензирования ПО
