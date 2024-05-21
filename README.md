@@ -35,7 +35,7 @@ Python django developer, **[Innova Group](https://innovacompanies.com/){:target=
 
 - SimpleVotings: Разработка и оптимизация архитектуры сайта для голосований с использованием drf.
 - BotCreator: Создание песочницы для визуального программирования Discord ботов с помощью javascript и drf.
-- Sunrise: Написание backend'а для сайта подбора спортивных клубов в школе **[АНО СК ВОСХОД](https://vk.com/sunrise.russia){:target="_blank" rel="noopener"}**, включая выбор кружков и просмотр расписания занятий. Разработка админской части для управления информацией.
+- Sunrise: Написание backend части сайта подбора спортивных клубов в школе **[АНО СК ВОСХОД](https://vk.com/sunrise.russia){:target="_blank" rel="noopener"}**, включая выбор кружков и просмотр расписания занятий. Разработка админской части для управления информацией.
 
 ---
 #### Hard skills:
