@@ -23,11 +23,12 @@ Python backend developer, **[Innova Group](https://innovacompanies.com/){:target
 - Изучение и участие в разработке платежных технологий на проекте **[PayPlanet](https://pay-planet.com/){:target="_blank" rel="noopener"}**
 
 Python backend developer, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}** (декабрь 2023 г. – настоящее время)
-- Работа с django-admin, DRF, REST API
-- Оптимизация SQL запросов с использованием postgresql
-- Использование docker контейнеров
-- Поддержка и улучшение существующего функционала
+- Управление отделом бэкенда, менеджмент задач
 - Изучение и участие в разработке бэкенд приложений на проекте **[Квадросим](https://xn--80adhqgqmpk.xn--p1ai/){:target="_blank" rel="noopener"}**
+- Разработка и поддержание сервера лицензирования ПО
+- Настройка CI/CD и CDN логики проектов
+- Разработка и поддержание сервера проведения соревнований
+- Написание сервера мультиплеера для **[Квадросим](https://xn--80adhqgqmpk.xn--p1ai/){:target="_blank" rel="noopener"}**
 
 ---
 #### Фриланс:
@@ -63,7 +64,8 @@ Python backend developer, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="
 #### Дополнительный опыт:
 
 - Руководил командой из 3 разработчиков по созданию игры в рамках **[олимпиады НТО](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**, управление командой, организация работы, ведение продукта на всем пути
-- Являюсь одним из организаторов НТО по **[разработке компьютерных игр](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**, отвечаю за деятельность амассадоров и работы с комьюнити. Провожу онлайн вебинары, офлайн обучающие и рекламные лекции
+- Организатор НТО по **[разработке компьютерных игр](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**, отвечаю за деятельность амассадоров и работы с комьюнити. Провожу онлайн вебинары, офлайн обучающие и рекламные лекции
+- Являюсь амбассадором и тестировщиком **[НКФП Берлога](https://platform.kruzhok.org/){:target="_blank" rel="noopener"}**
 - Работаю в HR агенстве менеджером, веду с клиента от их прихода в агенство до трудоустройства
 - GitHub: **[https://github.com/n1kkj](https://github.com/n1kkj){:target="_blank" rel="noopener"}**
 - GitLab: **[https://gitlab.com/n1kkj](https://gitlab.com/n1kkj){:target="_blank" rel="noopener"}**
