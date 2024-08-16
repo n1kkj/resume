@@ -31,11 +31,12 @@ Python django developer, **[Innova Group](https://innovacompanies.com/){:target=
 Python developer, **[YourOffer](https://youroffer.ru/){:target="_blank" rel="noopener"}** (январь 2024 г. – настоящее время)
 - Разработка телеграм ботов для составления резюме, сопроводительных писем и проведения собеседований
 - Создание парсера поиска, обработки и фильтрации вакансий различных источников
----
 
+---
 #### Фриланс:
 - Разработка сайта хранения и обработки результатов для компании **[Кордиант](https://cordiantgame.ru/){:target="_blank" rel="noopener"}**
 - Создание сервера авторизации для проекта RTaxi в телеграм мини-апп
+  
 ---
 
 #### Hard skills:
