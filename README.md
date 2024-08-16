@@ -28,7 +28,7 @@ Python django developer, **[Innova Group](https://innovacompanies.com/){:target=
 - Создание сервера для управления проведением соревнований
 - Написание сервера мультиплеера для **[Квадросим](https://xn--80adhqgqmpk.xn--p1ai/){:target="_blank" rel="noopener"}**
 
-Pythondeveloper, **YourOffer](https://youroffer.ru/){:target="_blank" rel="noopener"}** (январь 2024 г. – настоящее время)
+Python developer, **[YourOffer](https://youroffer.ru/){:target="_blank" rel="noopener"}** (январь 2024 г. – настоящее время)
 - Разработка телеграм ботов для составления резюме, сопроводительных писем и проведения собеседований
 - Создание парсера поиска, обработки и фильтрации вакансий различных источников
 ---
