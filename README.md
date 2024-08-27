@@ -17,7 +17,7 @@
 Python django developer, **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}** (апрель 2023 г. – настоящее время)
 - Работа с django-admin, DRF, REST API, fastapi
 - Написание телеграм ботов
-- Разработка платежных технологий в проекте международного платежного сервиса
+- Участие в разработке проекта международного платежного сервиса
 - Создание библиотеки хранения и шифровки карт для платежной системы
 
 Глава отдела backend, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}** (декабрь 2023 г. – настоящее время)
