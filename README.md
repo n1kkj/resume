@@ -84,7 +84,7 @@ Python developer, **[YourOffer](https://youroffer.ru/){:target="_blank" rel="noo
 - **[Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}**, Кучук Егор Андреевич (Педагог)
 
 ---
-<a href="Лакин%20Никита%20резюме.pdf">Скачать как pdf</a>
+<a href="Лакин%20Никита%20резюме.pdf" download="Лакин%20Никита%20резюме.pdf" class="download-button">Скачать как pdf</a>
 <style>
 @media only screen and (max-width: 480px) {
   .pc{
