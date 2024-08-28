@@ -20,7 +20,7 @@ Python django developer, **[Innova Group](https://innovacompanies.com/){:target=
 - Участие в разработке проекта международного платежного сервиса
 - Создание библиотеки хранения и шифровки карт для платежной системы
 
-Глава отдела backend, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}** (декабрь 2023 г. – настоящее время)
+Project manager | python developer, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}** (декабрь 2023 г. – настоящее время)
 - Управление отделом бэкенда, менеджмент задач
 - Создание сервера лицензирования ПО
 - Разработка кастомной админки для обработки лицензий и организаций
