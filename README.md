@@ -2,7 +2,7 @@
 
 - телеграм: **[@n1kkj](https://t.me/n1kkj){:target="_blank" rel="noopener"}**
 - почта: **[lakin.n.s@yandex.ru](mailto:lakin.n.s@yandex.ru){:target="_blank" rel="noopener"}**
-- телефон: **[+7(995)749-25-55](tel:+7-995-789-25-59)**
+- телефон: **[+7(995)789-25-59](tel:+7-995-789-25-59)**
   <div class="mob"><ul><li><a href="vcard.vcf">сохранить контакт</a></li></ul></div>
 
 ---
