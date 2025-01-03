@@ -1,7 +1,7 @@
 #### Контакты:
 
 - телеграм: **[@n1kkj](https://t.me/n1kkj){:target="_blank" rel="noopener"}**
-- почта: **[lakin.n.s@yandex.ru](mailto:lakin.n.s@yandex.ru){:target="_blank" rel="noopener"}**
+- почта: **[nikita.lakin.topka@gmail.com](mailto:nikita.lakin.topka@gmail.com){:target="_blank" rel="noopener"}**
 - телефон: **[+7(995)789-25-59](tel:+7-995-789-25-59)**
   <div class="mob"><ul><li><a href="vcard.vcf">сохранить контакт</a></li></ul></div>
 
@@ -10,17 +10,27 @@
 - **[Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}**
  (2020 г. – 2023 г.)
 - РТУ МИРЭА, Факультет "Информатики и вычислительной техники" (2023 г. - 2027 г.)
+- Университет Иннополис, дополнительное образование "Технологии Девопс" (2024 г. - 2025 г.)
 
 ---
 #### Релевантный опыт:
 
-Python django developer, **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}** (апрель 2023 г. – настоящее время)
-- Работа с django-admin, DRF, REST API, fastapi
-- Написание телеграм ботов
+Программист Python, **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}** (апрель 2023 г. – настоящее время)
 - Участие в разработке проекта международного платежного сервиса
-- Создание библиотеки хранения и шифровки карт для платежной системы
+- Создание библиотеки хранения и шифровки карт пользователей
+- Интеграция провайдеров в платежную систему
+- Разработка LMS платформы онлайн академии **[Innova IT Academy](https://innovaitacademy.tech/){:target="_blank" rel="noopener"}**
 
-Project manager | python developer, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}** (декабрь 2023 г. – настоящее время)
+Project manager | python developer, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}** (декабрь 2023 г. – апрель 2025 г.)
+- Создание сервера лицензирования ПО, разработка кастомной админки
+- Настройка CI/CD и CDN логики проектов
+- Написание сервера мультиплеера для **[Квадросим](https://xn--80adhqgqmpk.xn--p1ai/){:target="_blank" rel="noopener"}**
+
+Python developer, **[YourOffer](https://youroffer.ru/){:target="_blank" rel="noopener"}** (январь 2024 г. – январь 2025 г.)
+- Разработка телеграм ботов для составления резюме, сопроводительных писем и проведения собеседований
+- Создание парсера поиска, обработки и фильтрации вакансий различных источников
+
+Технический директор, **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}** (декабрь 2023 г. – апрель 2025 г.)
 - Управление отделом бэкенда, менеджмент задач
 - Создание сервера лицензирования ПО
 - Разработка кастомной админки для обработки лицензий и организаций
@@ -28,27 +38,22 @@ Project manager | python developer, **[Ninsar](https://ninsar.pro/){:target="_bl
 - Создание сервера для управления проведением соревнований
 - Написание сервера мультиплеера для **[Квадросим](https://xn--80adhqgqmpk.xn--p1ai/){:target="_blank" rel="noopener"}**
 
-Python developer, **[YourOffer](https://youroffer.ru/){:target="_blank" rel="noopener"}** (январь 2024 г. – настоящее время)
-- Разработка телеграм ботов для составления резюме, сопроводительных писем и проведения собеседований
-- Создание парсера поиска, обработки и фильтрации вакансий различных источников
-
 ---
 #### Фриланс:
 - Разработка сайта хранения и обработки результатов для компании **[Кордиант](https://cordiantgame.ru/){:target="_blank" rel="noopener"}**
-- Создание сервера авторизации для проекта RTaxi в телеграм мини-апп
   
 ---
 
-#### Hard skills:
+#### Навыки:
 
-- python, c++, c#, c
-- drf, django, fastapi
-- postgresql, sqlite, mysql, alembic
-- redis, celery
-- docker, kubernetes, gunicorn
+**Языки:** python, c++, c#, c
+**Фреймворки:** django, fastapi
+**СУБД:** postgresql, sqlite, mysql
+**NoSQL-СУБД:** redis, celery, clickhouse
+**CI/CD:** docker, kubernetes, gunicorn, uvicorn
 
 ---
-#### Soft skills:
+#### Софт скиллы:
 
 - Умение управлять командой
 - Внимательность к деталям, быстрая обучаемость
