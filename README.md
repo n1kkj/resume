@@ -37,7 +37,7 @@
 
 ---
 #### Фриланс:
-- Разработка сайта хранения и обработки результатов для компании **[Кордиант](https://cordiantgame.ru/){:target="_blank" rel="noopener"}**
+- Разработка сайта хранения и обработки результатов мини игр для компании **[Кордиант](https://cordiantgame.ru/){:target="_blank" rel="noopener"}**
 - Разработка бэкенд части телеграм мини-аппки для сети отелей Санкт-Петербурга **["Demetra Hotel"](https://demetra-art-hotel.ru/){:target="_blank" rel="noopener"}**
   
 ---
