@@ -38,6 +38,7 @@
 ---
 #### Фриланс:
 - Разработка сайта хранения и обработки результатов для компании **[Кордиант](https://cordiantgame.ru/){:target="_blank" rel="noopener"}**
+- Разработка бэкенд части телеграм мини-аппки для сети отелей Санкт-Петербурга **["Demetra Hotel"](https://demetra-art-hotel.ru/){:target="_blank" rel="noopener"}**
   
 ---
 
@@ -51,7 +52,7 @@
 
 **NoSQL-СУБД:** redis, celery, clickhouse
 
-**CI/CD:** docker, kubernetes, gunicorn, uvicorn
+**CI/CD:** docker, kubernetes, GitLab CI/CD
 
 ---
 #### Софт скиллы:
