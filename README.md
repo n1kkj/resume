@@ -9,8 +9,8 @@
 #### Образование:
 - **[Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}**
  (2020 г. – 2023 г.)
-- РТУ МИРЭА, Факультет "Информатики и вычислительной техники" (2023 г. - 2027 г.)
-- Университет Иннополис, дополнительное образование "Технологии Девопс" (2024 г. - 2025 г.)
+- **[РТУ МИРЭА, Факультет "Информатики и вычислительной техники"](https://www.mirea.ru/education/the-institutes-and-faculties/institut-iskusstvennogo-intellekta/training-programs/bakalavriat/09-03-01-informatika-i-vychislitelnaya-tekhnika/){:target="_blank" rel="noopener"}** (2023 г. - 2027 г.)
+- РТУ МИРЭА + Иннополис, дополнительное образование **["Технологии Девопс"](https://www.mirea.ru/education/programs-of-additional-education-and-professional-training/program/tsifrovaya-kafedra/programmy/tekhnologii-devops/){:target="_blank" rel="noopener"}** (2024 г. - 2025 г.)
 
 ---
 #### Релевантный опыт:
