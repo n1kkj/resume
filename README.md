@@ -72,7 +72,7 @@
 ---
 #### Дополнительный опыт:
 - Управлял студией по разработке компьютерных игр из 15 человек. Отвечал за организацию работы и разработку всех проектов
-- Организатор НТО по **[разработке компьютерных игр 23/24](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**, отвечал за деятельность амассадоров, работу с комьюнити, составление и проверку заданий. Проводил онлайн вебинары, офлайн обучающие и рекламные лекции
+- Организатор НТО по **[разработке компьютерных игр c 23 по 25 гг](https://ntcontest.ru/tracks/nto-school/proekt-sozdaniya-virtualnykh-mirov/razrabotka-komputernih-igr/){:target="_blank" rel="noopener"}**, отвечал за деятельность амассадоров, работу с комьюнити, составление и проверку заданий. Проводил онлайн вебинары, офлайн обучающие и рекламные лекции
 - Главный менеджер отдела разработки в HR-агенстве **[YourOffer](https://youroffer.ru/){:target="_blank" rel="noopener"}**
 - Спикер на многих мероприятиях (**[Движение Первых](https://vk.com/wall-214524833_106651){:target="_blank" rel="noopener"}** на III Конгрессе молодых ученых, **[Квадросим](https://vk.com/wall-14046705_165813){:target="_blank" rel="noopener"}** на ВФМ 2024, **[День НТО](https://centercoop.ru/press-tsentr/novosti/peterburgskie-shkolniki-poznakomilis-s-natsionalnoy-tekhnologicheskoy-olimpiadoy/){:target="_blank" rel="noopener"}** в Санкт-Петербурге, **[Школа ПРОТОН](https://t.me/educationcenter_proton/3270){:target="_blank" rel="noopener"}**, **[Выставка Россия](https://t.me/kruzhokteam/1436){:target="_blank" rel="noopener"}** на ВДНХ, и другие)
 
