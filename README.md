@@ -13,7 +13,7 @@
 - РТУ МИРЭА + Иннополис, дополнительное образование **["Технологии Девопс"](https://www.mirea.ru/education/programs-of-additional-education-and-professional-training/program/tsifrovaya-kafedra/programmy/tekhnologii-devops/){:target="_blank" rel="noopener"}** (2024 г. - 2025 г.)
 
 ---
-#### Релевантный опыт:
+#### Релевантный опыт (3 года):
 
 **Программист Python**, **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}** (апрель 2023 г. – настоящее время)
 - Участие в разработке проекта международного платежного сервиса
@@ -40,20 +40,23 @@
 #### Фриланс:
 - Разработка сайта хранения и обработки результатов мини игр для компании **[Кордиант](https://cordiantgame.ru/){:target="_blank" rel="noopener"}**
 - Разработка бэкенд части телеграм мини-аппки для сети отелей Санкт-Петербурга **[Demetra Hotel](https://demetra-art-hotel.ru/){:target="_blank" rel="noopener"}**
+- Создание бэкенд микросервиса для платформы анализа парковок **[ParkOut](https://parkout.ru/){:target="_blank" rel="noopener"}**
   
 ---
 
 #### Навыки:
 
-**Языки:** python, c++, c#, c
+**Языки:** Python, C++, C#, C
 
-**Фреймворки:** django, fastapi
+**Фреймворки:** Django, FastAPI, FastStream
 
-**СУБД:** postgresql, sqlite, mysql
+**СУБД:** Postgresql, SQLite, MySQL
 
-**NoSQL-СУБД:** redis, celery, clickhouse
+**NoSQL-СУБД:** Redis, Clickhouse
 
-**CI/CD:** docker, GitLab CI/CD
+**Брокеры сообщений:** Apache Kafka, Celery
+
+**CI/CD:** Docker, GitLab CI/CD
 
 ---
 #### Софт скиллы:
