@@ -81,11 +81,6 @@
 - Спикер на многих мероприятиях (**[Движение Первых](https://vk.com/wall-214524833_106651){:target="_blank" rel="noopener"}** на III Конгрессе молодых ученых, **[Квадросим](https://vk.com/wall-14046705_165813){:target="_blank" rel="noopener"}** на ВФМ 2024, **[День НТО](https://centercoop.ru/press-tsentr/novosti/peterburgskie-shkolniki-poznakomilis-s-natsionalnoy-tekhnologicheskoy-olimpiadoy/){:target="_blank" rel="noopener"}** в Санкт-Петербурге, **[Школа ПРОТОН](https://t.me/educationcenter_proton/3270){:target="_blank" rel="noopener"}**, **[Выставка Россия](https://t.me/kruzhokteam/1436){:target="_blank" rel="noopener"}** на ВДНХ, и другие)
 
 ---
-#### Рекомендации:
-- **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}**, Лакин Станислав Владимирович (Управляющий партнёр/технический директор)
-- **[Школа программистов](https://informatics.ru/branches/prospektmira/?utm_medium=maps&utm_source=yamaps&ysclid=lqqk4zzk0897294546){:target="_blank" rel="noopener"}**, Кучук Егор Андреевич (Педагог)
-
----
 #### GitHub\GitLab
 - GitHub: **[https://github.com/n1kkj](https://github.com/n1kkj){:target="_blank" rel="noopener"}**
 - GitLab: **[https://gitlab.com/n1kkj](https://gitlab.com/n1kkj){:target="_blank" rel="noopener"}**
