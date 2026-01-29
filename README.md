@@ -170,7 +170,6 @@
 - GitLab: **[https://gitlab.com/n1kkj](https://gitlab.com/n1kkj){:target="_blank" rel="noopener"}**
 
 ---
-<a href="Лакин%20Никита%20резюме.pdf" download="Лакин%20Никита%20резюме.pdf" class="download-button">Сохранить в pdf</a>
 <style>
 @media only screen and (max-width: 480px) {
   .pc{
