@@ -52,9 +52,11 @@
 
 **СУБД:** Postgresql, SQLite, MySQL
 
-**NoSQL-СУБД:** Redis, Clickhouse
+**Кэширование:** Redis
 
-**Брокеры сообщений:** Apache Kafka, Celery
+**Хранилища данных/OLAP:** ClickHouse
+
+**Асинхронная обработка:** Celery, Apache Kafka
 
 **CI/CD:** Docker, GitLab CI/CD
 
