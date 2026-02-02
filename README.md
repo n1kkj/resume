@@ -15,7 +15,7 @@
 ---
 #### Релевантный опыт (4 года):
 
-**Senior Python Developer** - **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}**
+**Middle Python Developer** - **[Innova Group](https://innovacompanies.com/){:target="_blank" rel="noopener"}**
 (июль 2024 - декабрь 2025)
 
 Контекст: high-load сервисы, финтех, образовательные и медиа-платформы.
@@ -41,7 +41,7 @@
 что обеспечило покрытие тестами более 90% процентов апи, запустило новую бизнес логику истории покупок.
 
 
-**Senior Python Developer** - **RTaxi**
+**Middle Python Developer** - **RTaxi**
 (сентябрь 2023 – июнь 2024)
 
 Контекст: стартап, микросервисы, Telegram-экосистема.
@@ -62,7 +62,7 @@
 что повысило качество кода и упростило дальнейшее развитие системы.
 
 
-**Middle Python Developer** - **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}**
+**Junior Python Developer** - **[Ninsar](https://ninsar.pro/){:target="_blank" rel="noopener"}**
 (январь 2022 - август 2023)
 
 Контекст: b2b-продукты, лицензирование ПО, мультиплеерные системы, собственная инфраструктура.
