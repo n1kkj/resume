@@ -15,7 +15,7 @@
 ---
 #### Релевантный опыт (3.5 года):
 
-**Middle backend разработчик** - **[Secunda](https://nebusfinance.ru/){:target="_blank" rel="noopener"}**
+**Middle backend разработчик** - **[Небус финанс](https://nebusfinance.ru/){:target="_blank" rel="noopener"}**
 (январь 2026 - август 2026)
 
 Контекст: финтех, high-load сервисы
